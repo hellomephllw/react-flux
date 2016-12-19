@@ -1,0 +1,28 @@
+{
+  "name": "react_flux",
+  "version": "1.0.0",
+  "description": "this is desc",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "edison",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.9.0",
+    "flux": "latest",
+    "jsx-loader": "^0.13.2",
+    "keymirror": "latest",
+    "koa": "^1.2.0",
+    "koa-ejs": "^3.0.0",
+    "object-assign": "latest",
+    "react": "latest",
+    "react-dom": "^15.1.0",
+    "react-router": "^2.4.1",
+    "webpack": "latest"
+  }
+}
